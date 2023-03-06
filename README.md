@@ -1,1 +1,2 @@
 # HOSPITAL-MANAGEMENT-SYSTEM
+In this project, we will build Hospital Management System Project in Java and MySQL with source code. This project is great for those at an intermediate level in Java who want to advance their coding skills. In this project, the users will be able to perform the following functionalities Admin Login, Patient details, Doctor details, Medicine details, and Services. Let’s get started!
